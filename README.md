@@ -32,7 +32,7 @@ Clone the repository and open the project folder.
 
 Install the required Python packages:
 
-pip3 install -r requirments.txt
+pip3 install -r requirements.txt
 
 Get a free API key from Alpha Vantage:
 
